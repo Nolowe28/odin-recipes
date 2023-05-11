@@ -1,0 +1,32 @@
+h1 {
+    background-color: rgb(245, 220, 187);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    color: #000000;
+    text-align: center;
+}
+
+.left {
+    background-color: salmon;
+    color: azure;
+    font-size: 32px;
+    font-weight: 200;
+    text-align: left;
+}
+
+.center {
+    background-color: rgb(255, 253, 253);
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-weight: 200;
+    text-align: center;
+}
+
+.end {
+    background-color: rgb(255, 195, 188);
+    color: rgb(11, 89, 141);
+    font-size: 32px;
+    font-weight: 200;
+    text-align: right;
+}
