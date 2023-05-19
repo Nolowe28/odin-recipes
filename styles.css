@@ -1,10 +1,24 @@
+div {
+    background-color: rgba(255, 228, 196, 0.767);
+    width: fit-content;
+    margin: .5rem auto .5rem;
+    height: 2000px;
+}
+
 h1 {
-    background-color: rgb(245, 220, 187);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 36px;
-    font-weight: 800;
-    color: #000000;
+    background-color: rgba(240, 248, 255, 0.438);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 55px;
+    font-weight: 100;
+    color: #363636;
     text-align: center;
+    width: fit-content;
+    margin: 1rem auto 2rem;
+}
+
+a {
+    text-decoration: none;
+    margin: 4rem;
 }
 
 .left {
